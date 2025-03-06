@@ -45,13 +45,23 @@
   - Setting up a CI/CD pipeline for automated testing and deployment.
 - **Resources:** Documentation for Heroku or AWS services.
 
-7. **Additional Learning Topics:**
+## 7. Additional Learning Topics:
    - **Project Setup:** Instructions on how to set up the project environment and dependencies.
    - **Coding:** Basic to advanced Python coding concepts.
    - **Libraries:** Overview of commonly used libraries in Python.
    - **Debugging:** Techniques and tools for debugging Python applications.
    - **Deployment:** Steps to deploy your Python application to production.
    - **Environments:** Understanding virtual environments and their importance in Python projects.
+
+## Current Progress
+
+- Completed running `main.py` and tests successfully.
+- Learned about Python basics, including:
+  - File handling with `open()`, `read()`, and `readlines()`.
+  - String formatting using f-strings (e.g., `f"..."` and `f'''...'''`).
+
+### Next Steps
+- Start from the next topic in the learning plan related to Python basics and automation.
 
 ## Instructions for Future Reference:
 - After covering each topic, strike it from this file to keep track of progress.
