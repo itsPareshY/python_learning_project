@@ -35,6 +35,7 @@
 - Python 3.x
 - Flask 2.0.1  
 - requests 2.25.1
+- werkzeug 2.0.3
 
 ## Topics Covered
 
