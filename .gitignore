@@ -16,3 +16,5 @@ venv/
 # Runtime created files
 *.log
 *.txt
+file.txt
+students.txt
