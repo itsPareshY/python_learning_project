@@ -57,12 +57,13 @@
 
 - Completed running `main.py` and tests successfully.
 - Learned about Python basics, including:
-  - File handling with `open()`, `read()`, and `readlines()`.
+  - File handling with `open()`, `read()`, and `readlines()`. 
   - String formatting using f-strings (e.g., `f"..."` and `f'''...'''`).
 - Implemented a Student Management System that allows adding students and calculating average grades.
+- Worked with collections, including lists, tuples, dictionaries, and sets.
 
 ### Next Steps
-- Start from the next topic in the learning plan related to Python basics and automation.
+- Start from the next topic in the learning plan related to File I/O.
 
 ## Instructions for Future Reference:
 - After covering each topic, strike it from this file to keep track of progress.
