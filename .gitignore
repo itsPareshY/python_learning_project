@@ -12,3 +12,7 @@ venv/
 # IDE specific files
 .vscode/
 *.idea/
+
+# Runtime created files
+*.log
+*.txt
