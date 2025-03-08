@@ -59,6 +59,7 @@
 - Learned about Python basics, including:
   - File handling with `open()`, `read()`, and `readlines()`.
   - String formatting using f-strings (e.g., `f"..."` and `f'''...'''`).
+- Implemented a Student Management System that allows adding students and calculating average grades.
 
 ### Next Steps
 - Start from the next topic in the learning plan related to Python basics and automation.
