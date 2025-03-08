@@ -13,8 +13,8 @@ libraries = [
     "sqlite3",  # Built-in library for lightweight database handling.
     "PyPDF2",  # Popular for working with PDFs (merging, extracting text, etc.).
     "Pytest",  # Widely used testing framework for Python. Highly useful for maintaining code quality.
-    "xlrd",  # Essential for reading old Excel files.
-    "xlwt",  # For writing to old Excel files.
+    #"xlrd",  # Essential for reading old Excel files.
+    #"xlwt",  # For writing to old Excel files.
     "openpyxl",  # Used to read/write Excel 2010+ (.xlsx) files. Common in data work.
     "BeautifulSoup",  # Commonly used for web scraping. Easy to learn and apply.
     "lxml",  # A more efficient and powerful XML/HTML parser. More advanced than BeautifulSoup.
