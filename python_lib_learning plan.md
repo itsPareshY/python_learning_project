@@ -36,5 +36,5 @@ Current library:
 
 Completed learning: 
 
-Lets go over list of libraries 1 by 1 and learn each one. Check the Current library section to check the progress. Put the name of  library currently learning in the Current library section, also add topics of that library that you have covered in the Current library section that means track progress. Put completed learning in the Completed learning section.
+Lets go over list of libraries 1 by 1 in python_lib_learning plan.md file and learn each one. Check the Current library section to check the progress. Put the name of  library currently learning in the Current library section, also add topics of that library that you have covered in the Current library section that means track progress. Put completed learning in the Completed learning section.
 
