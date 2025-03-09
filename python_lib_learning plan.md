@@ -4,6 +4,7 @@ libraries = [
     "NumPy",  # Core library for numerical operations, foundation for many scientific libraries.
     "Requests",  # Simple and widely used for making HTTP requests.
     "Flask",  # A lightweight web framework that’s beginner-friendly.
+    "FastAPI", # FastAPI is a modern, high-performance web framework for building APIs with Python 3.7+ based on Starlette (for async web server handling) and Pydantic (for data validation and serialization). It is designed to be fast, easy to use, and production-ready.
     "Django",  # Popular web framework, though slightly steeper than Flask, but still essential.
     "Matplotlib",  # Commonly used for basic data visualization.
     "Seaborn",  # Built on top of Matplotlib, simplifies complex data visualizations.
